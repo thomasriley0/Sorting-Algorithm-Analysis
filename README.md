@@ -1,6 +1,7 @@
-# Sorting-Algorithm-Analysis
 
-This is a python file that runs different sorting algorithms and records the time that each algorithm takes to sort a given list. The results are saved to a graph by using the pyplot library
+NOTE: This is a python file that runs different sorting algorithms and records the time that each algorithm takes to sort a given list. The results are saved to a graph by using the pyplot library
+
+<h1>Findings:</h1>
 
 <h3>Comparison of time consumption of slow & fast sorting algorithms on randomized data</h3>
 
