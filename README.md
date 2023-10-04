@@ -1,5 +1,7 @@
 # Sorting-Algorithm-Analysis
 
+This is a python file that runs different sorting algorithms and records the time that each algorithm takes to sort a given list. The results are saved to a graph by using the pyplot library
+
 <h3>Comparison of time consumption of slow & fast sorting algorithms on randomized data</h3>
 
 It’s apparent by the resulting charts that selection sort runs O(n^2) times on average and insertion sort is also O(n^2)
