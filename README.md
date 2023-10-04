@@ -1,6 +1,6 @@
 # Sorting-Algorithm-Analysis
 
-<img width="507" alt="image" src="https://github.com/thomasriley0/Sorting-Algorithm-Analysis/assets/129229020/feaaf04c-ca48-4765-b6e5-0ba6e98ea49a"><h3>Comparison of time consumption of slow & fast sorting algorithms on randomized data</h3>
+<h3>Comparison of time consumption of slow & fast sorting algorithms on randomized data</h3>
 
 It’s apparent by the resulting charts that selection sort runs O(n^2) times on average and insertion sort is also O(n^2)
 
